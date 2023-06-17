@@ -1,4 +1,4 @@
-# COVID-19- A COVID-19 global and Chinese epidemic tracking database
+#  A COVID-19 global and Chinese epidemic tracking database
 Firstly, welcome to discover and come here.
 # Language
 Some topics are bilingual in Chinese and English, but most are in Chinese because the developers are Chinese. You can use translation software to translate into your language.
