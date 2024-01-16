@@ -222,7 +222,7 @@ Hong Kong/VB24004297/2024|EPI_ISL_18760251|2024-01-03|本土|-|<details><summary
 Hong Kong/VB24006024/2024|EPI_ISL_18760253|2024-01-04|本土|-|<details><summary>JN.1> C19011T></summary>G1729A, C2137T, C29762T</details>
 Hong Kong/VB24006739/2024|EPI_ISL_18760254|2024-01-04|本土|-|<details><summary>JN.1.4> T18453C></summary>C28201T(Orf8:S103L)> C28948T> C26801T> C7420T</details>
 Hong Kong/VB24008814/2024|EPI_ISL_18760255|2024-01-06|本土|-|<details><summary>JN.1> G5704T(Orf1a:Q1813H), G28903T(N:M210I)></summary>C10576T, C20313T</details>
-Singapore/R3MQ54/2024|EPI_ISL_18771091|2024-01-10|输出|Hong Kong, China|<details><summary>sars-cov-2-variants/lineage-proposals#1291></summary>G210A, G2331T(Orf1a:C689F), C6310T, T8670G(Orf1a:F2802C)</details>
+Singapore/R3MQ54/2024|EPI_ISL_18771091|2024-01-10|输出|Hong Kong, China|<details><summary>sars-cov-2-variants/lineage-proposals#1291></summary>G210A, G2331T(Orf1a:C689F), C6310T, T8670G(Orf1a:F2802C), A23021G(S: N487D)</details>
 
 <!--EndFragment--> 
 </body>
