@@ -480,7 +480,7 @@ Singapore/R9MQ12/2024|EPI_ISL_18860227|2024-01-31|输出|China(Mainland)|<detail
 USA/CA-GBW-H20-357-5887/2024|EPI_ISL_18879513|2024-01-31|输出|Taiwan, China|<details><summary>JN.1> T9151C></summary>C4234T, A16216G(Orf1b:T917A), C23634T(S:S691F)</details>
 Singapore/R10MQ21/2024|EPI_ISL_18888330|2024-02-01|输出|China(Mainland)|<details><summary>JN.1.9></summary>C3020A(Orf1a:H919N), G8017T, T23596C</details>
 Singapore/R10MQ25/2024|EPI_ISL_18888314|2024-02-02|输出|Hong Kong, China|JN.1> T8794C> G2447A(Orf1a:G728S)
-Singapore/R11MQ5/2024|EPI_ISL_18888365|2024-02-05|输出|Hong Kong, China|<details><summary>JN.1.4.3> C19017T></summary>C19170T, G21974C(S:D138H)</details>
+Singapore/R11MQ5/2024|EPI_ISL_18888365|2024-02-05|输出|Hong Kong, China|<details><summary>JN.1.4.5> C19017T></summary>C19170T, G21974C(S:D138H)</details>
 
 <!--EndFragment--> 
 </body>
