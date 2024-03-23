@@ -7,4 +7,4 @@ This includes China's upload data in GISAID, Genbase's COVID-19 data on China's 
 Everyone can come here to create topics or discuss with us.
 ## Collaborator
 Due to capacity limitations, I joined the collaborator team.
-Our collaborators include @Over-There-Is and @Outpfmance. Thank them for making this repository even better.
+Our collaborators include @Over-There-Is @Akalin3 and @Outpfmance. Thank them for making this repository even better.
